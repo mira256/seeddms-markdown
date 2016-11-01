@@ -3,11 +3,11 @@
 Extension for [SeedDMS](http://www.seeddms.org/).
 
 Show rendered Markdown files instead source if displayed "online".
-Original plain text markdown files are still available as "download".
+Original plaintext markdown files are still available as "download".
 
 ## Installation
 
-Extension files must be located in directory _markdownRenderer_ in SeedDMS extension directory.
+Extension files must be located in directory _markdownRenderer_ in SeedDMS extension directory:
 
     [SeedDMS root]
     - data
